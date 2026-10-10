@@ -84,8 +84,8 @@ lib/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/himel7009/Flutter_CSC464_Flutter_Final_Project-Group5-Section1-P005.git
-   cd Flutter_CSC464_Flutter_Final_Project-Group5-Section1-P005
+   git clone https://github.com/himel7009/Teacher-Assistant-Flutter-App.git
+   cd Teacher-Assistant-Flutter-App
    ```
 2. Install dependencies:
    ```bash
